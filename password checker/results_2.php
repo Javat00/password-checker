@@ -17,9 +17,8 @@
                     <p>Here you will be able to check how long it would take to decrypt your password with a certain
                         number of attempts per second.
                     </p><br>
-                    <p>Creado por Aarón Espinosa Asencio, estudiante en I.E.S Kursaal<br>
-                    Profesor: José López Expósito</p><br>
-                    Curso de Especialización en Ciberseguridad en Entornos de las Tecnologías de la Información (2021)
+                    <p>Made by Javat00</p>
+                    
                 </div>
             </div>
             <?php
