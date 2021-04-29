@@ -17,9 +17,8 @@
                     <p>Here you will be able to check if your password meets the requirements to be
                         considered as a strong one.
                     </p><br>
-                    <p>Creado por Aarón Espinosa Asencio, estudiante en I.E.S Kursaal<br>
-                    Profesor: José López Expósito</p><br>
-                    Curso de Especialización en Ciberseguridad en Entornos de las Tecnologías de la Información (2021)
+                    <p>Made by Javat00</p>
+                    
                 </div>
             </div>
             <?php
