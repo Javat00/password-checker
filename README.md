@@ -1,5 +1,5 @@
 # Password Checker
-It checks the strength or your password and suggests you a secure one.
+It checks the strength of your password and suggests you a secure one.
 This is a mini project that a classmate and I did for the Specialization Course in Cybersecurity in IT Environments.
 
 You can read the article written by my teacher here: https://www.apprendiendo.es/la-ciberseguridad-y-el-mono-infinito/
